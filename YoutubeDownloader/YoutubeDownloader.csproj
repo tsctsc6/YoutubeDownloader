@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <DownloadFFmpeg>true</DownloadFFmpeg>
+    <DownloadFFmpeg>false</DownloadFFmpeg>
   </PropertyGroup>
 
   <ItemGroup>
